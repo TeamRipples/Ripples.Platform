@@ -1,0 +1,2 @@
+# Ripples.Platform
+MicroService platform
